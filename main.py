@@ -78,7 +78,6 @@ ig = IntegratedGradients(model)
 
 col1, col2 = st.columns(2)
 
-
 if image_uploaded is not None:
     # Convert to grayscale if using XRayVision, else RGB
     if selected_model == "XRayVision":
