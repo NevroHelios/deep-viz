@@ -1,7 +1,6 @@
 torch
-torchvision
-numpy
-streamlit
-captum
 torchcam
+torchvision
 pillow
+numpy
+matplotlib
